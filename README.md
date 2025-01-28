@@ -48,7 +48,7 @@ I am a **Full Stack Web Developer** with a passion for building efficient and vi
     <img src="https://www.qurantarbiyah.co.uk/images/headercenterimage.png" alt="Inventory Management System" width="80%">
 </div>
 
-[Live Demo](www.qurantarbiyah.uk)
+[Live Demo](https://www.qurantarbiyah.uk)
 
 ### 2. **INSURANCE WEBSITE**
 > Built an interactive INSURANCE platform featuring user authentication, different types of Inurance Coverage, and many more.
