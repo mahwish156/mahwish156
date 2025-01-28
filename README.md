@@ -60,20 +60,6 @@ I am a **Full Stack Web Developer** with a passion for building efficient and vi
 
 [Live Demo](www.insuranceadvisors.pk)
 
----
 
-## 📫 Let's Connect
-
-<div align="center">
-    <a href="www.linkedin.com/in/mahwish-ali-ab87a72bb">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-    </a>
-    
-    <a href="mahwishali.0156@gmail.com@gmail.com">
-        <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
-    </a>
-</div>
-
----
 
 ### 🌟 Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me!
